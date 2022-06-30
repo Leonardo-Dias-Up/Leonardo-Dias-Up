@@ -1,18 +1,14 @@
-<h1 align="center"> Olá, seja bem vindo(a). Muito Prazer. </h1>
-### Hi there 👋
+<h1 align="center"> Olá, seja bem vindo(a). Muito Prazer. 😄 </h1>
 
-<!--
-**Leonardo-Dias-Up/Leonardo-Dias-Up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre minha formação e experiência:
 
-Here are some ideas to get you started:
+- 🔭 Sou sócio em uma start-up a Update Data, trabalhamos com análise de dados e Inteligência Artificial.
+- 🙋‍♂️ Estou graduando em Economia 7/8.
+- 🌱 Procuro aprender sobre Economia, Machine Learning, Inteligência Artificial e Metódos Quantitativos em Geral como Modelos VAR, VEC, Dados em Painel.
+- 👯 Atualmente sou Presidente da Consecon Jr - Consultoria Econômica. 
+- 🤔 Estou a procura de desenvolvedores backend e frontend para desenvolvimento em django, também procuramos desenvolvedores da área de segurança digital.
+- 🎲 Já atuei em autarquias no setores de coordenação administrativo financeiro, setor de licitações, setor de investimentos e contabilidade.
+- 📫 Podemos em encontrar via redes sociais como o linkedin: https://www.linkedin.com/in/leonardo-dias-9a16b718b/
+- ⌨️ Tenho experiência com Python, Django, R, Power Bi, Excel, Google Data, e SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)

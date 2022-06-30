@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, seja bem vindo(a). Me chamo Leonardo Dias. </h1>
+<h1 align="center"> Olá, seja bem vindo(a). Me chamo Leonardo Dias. Prazer. </h1>
 ### Hi there 👋
 
 <!--

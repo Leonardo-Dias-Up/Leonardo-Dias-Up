@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, seja bem vindo(a). Muito Prazer. 😄 </h1>
 
-Um pouco sobre minha formação e experiência:
+Um pouco sobre mim e o que busco:
 
 - 🔭 Sou sócio em uma start-up a Update Data, trabalhamos com análise de dados e Inteligência Artificial.
 - 🙋‍♂️ Estou graduando em Economia 7/8.
@@ -11,4 +11,4 @@ Um pouco sobre minha formação e experiência:
 - 📫 Podemos em encontrar via redes sociais como o linkedin: https://www.linkedin.com/in/leonardo-dias-9a16b718b/
 - ⌨️ Tenho experiência com Python, Django, R, Power Bi, Excel, Google Data, e SQL.
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+

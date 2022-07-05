@@ -2,7 +2,7 @@
 
 Um pouco sobre mim e o que busco:
 
-- 🔭 Sou sócio em uma start-up a Update Data, trabalhamos com análise de dados e Inteligência Artificial.
+- 🔭 Atuo em uma start-up a Update Data, trabalhamos com análise de dados e Inteligência Artificial.
 - 🙋‍♂️ Estou graduando em Economia 7/8.
 - 🌱 Procuro aprender sobre Economia, Machine Learning, Inteligência Artificial e Metódos Quantitativos em Geral como Modelos VAR, VEC, Dados em Painel.
 - 👯 Atualmente sou Presidente da Consecon Jr - Consultoria Econômica. 

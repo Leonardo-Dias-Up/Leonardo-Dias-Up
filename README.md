@@ -1,13 +1,13 @@
 <h1 align="center"> Olá, seja bem vindo(a). Muito Prazer. 😄 </h1>
 
-
 <div align="center">
   <a href="https://github.com/Leonardo-Dias-Up">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Dias-Up&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Dias-Up&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-Um pouco sobre mim e o que busco:
+
+Um pouco sobre mim:
 
 - 🔭 Atuo em uma empresa de BI, trabalhamos com análise de dados e Inteligência Artificial.
 - 🙋‍♂️ Estou graduando em Economia 7/8.

@@ -21,6 +21,6 @@ Um pouco sobre mim:
   <a href = "mailto:leonardo.ecodias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg)
  
 </div>

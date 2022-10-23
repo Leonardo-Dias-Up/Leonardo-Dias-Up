@@ -1,5 +1,12 @@
 <h1 align="center"> Olá, seja bem vindo(a). Muito Prazer. 😄 </h1>
 
+
+<div align="center">
+  <a href="https://github.com/Leonardo-Dias-Up">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Dias-Up&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Dias-Up&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 Um pouco sobre mim e o que busco:
 
 - 🔭 Atuo em uma empresa de BI, trabalhamos com análise de dados e Inteligência Artificial.
@@ -8,10 +15,3 @@ Um pouco sobre mim e o que busco:
 - 🎲 Atuei em autarquias no setores de coordenação administrativo financeiro, setor de licitações, setor de investimentos e contabilidade.
 - 📫 Podemos nos encontrar via redes sociais como o linkedin: https://www.linkedin.com/in/leonardo-dias-economista/
 - ⌨️ Tenho experiência com Python, Django, R, Power Bi, Excel, Google Cloud, e MySQL.
-
-<div align="center">
-  <a href="https://github.com/Leonardo-Dias-Up">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Dias-Up&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Dias-Up&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-

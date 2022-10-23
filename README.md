@@ -9,4 +9,9 @@ Um pouco sobre mim e o que busco:
 - 📫 Podemos nos encontrar via redes sociais como o linkedin: https://www.linkedin.com/in/leonardo-dias-economista/
 - ⌨️ Tenho experiência com Python, Django, R, Power Bi, Excel, Google Cloud, e MySQL.
 
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Dias-Up&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Dias-Up&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+

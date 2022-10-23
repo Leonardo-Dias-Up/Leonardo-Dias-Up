@@ -15,3 +15,7 @@ Um pouco sobre mim e o que busco:
 - 🎲 Atuei em autarquias no setores de coordenação administrativo financeiro, setor de licitações, setor de investimentos e contabilidade.
 - 📫 Podemos nos encontrar via redes sociais como o linkedin: https://www.linkedin.com/in/leonardo-dias-economista/
 - ⌨️ Tenho experiência com Python, Django, R, Power Bi, Excel, Google Cloud, e MySQL.
+
+
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

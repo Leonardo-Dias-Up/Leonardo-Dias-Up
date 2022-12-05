@@ -37,3 +37,8 @@ Stacks:
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 </p> 
+
+  ### Visitantes 
+![](https://visitor-badge.glitch.me/badge?page_id=Leonardo-Dias-Up)
+<br>
+</div>

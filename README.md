@@ -36,6 +36,5 @@
   
 ### <p align="center"> Visitantes: </p>  
 ### <p align="center"> ![](https://visitor-badge.glitch.me/badge?page_id=Leonardo-Dias-Up) </p>  
-<br>
 </div>
 

@@ -20,7 +20,7 @@
 - ⌨️ Tenho experiência com Python, Django, R, React, Power Bi, Excel, Google Cloud, e MySQL.
 </div>
 
-### <p align="center"> Stacks </p>  
+### <p align="center"> Stacks: </p>  
 <p align="center">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
   <img alt="DJANGO-REST" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/> 
@@ -34,7 +34,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 </p> 
   
-### <p align="center"> Visitantes </p>  
+### <p align="center"> Visitantes: </p>  
 ### <p align="center"> ![](https://visitor-badge.glitch.me/badge?page_id=Leonardo-Dias-Up) </p>  
 <br>
 </div>

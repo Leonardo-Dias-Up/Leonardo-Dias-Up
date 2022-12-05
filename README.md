@@ -13,6 +13,7 @@
  
  ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg)
  
+### <p align="center"> Um pouco sobre mim: </p>  
  ### Um pouco sobre mim:
 
 - 🔭 Atuo em uma empresa de BI, trabalhamos com análise de dados e Inteligência Artificial.
@@ -38,7 +39,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 </p> 
 
-  ### Visitantes 
+  ### Visitantes: 
 ![](https://visitor-badge.glitch.me/badge?page_id=Leonardo-Dias-Up)
 <br>
 </div>

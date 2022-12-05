@@ -12,6 +12,12 @@
 
  
  ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg)
+### <p align="center"> Um pouco sobre mim: </p>  
+- 🔭 Atuo em uma empresa de BI, trabalhamos com análise de dados e Inteligência Artificial.
+- 🙋‍♂️ Estou graduando em Economia 8/8.
+- 🌱 Procuro aprender sobre Economia, Machine Learning, Inteligência Artificial e Metódos Quantitativos em Geral.
+- 🎲 Atuei em autarquias no setores de coordenação administrativo financeiro, setor de licitações, setor de investimentos e contabilidade.
+- ⌨️ Tenho experiência com Python, Django, R, React, Power Bi, Excel, Google Cloud, e MySQL.
 </div>
 
 ### <p align="center"> Stacks </p>  
@@ -33,11 +39,3 @@
 <br>
 </div>
 
-<div>
-### <p> Um pouco sobre mim </p>  
-- 🔭 Atuo em uma empresa de BI, trabalhamos com análise de dados e Inteligência Artificial.
-- 🙋‍♂️ Estou graduando em Economia 8/8.
-- 🌱 Procuro aprender sobre Economia, Machine Learning, Inteligência Artificial e Metódos Quantitativos em Geral.
-- 🎲 Atuei em autarquias no setores de coordenação administrativo financeiro, setor de licitações, setor de investimentos e contabilidade.
-- ⌨️ Tenho experiência com Python, Django, R, React, Power Bi, Excel, Google Cloud, e MySQL.
- </div>

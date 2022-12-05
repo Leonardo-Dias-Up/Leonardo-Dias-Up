@@ -13,9 +13,7 @@
  
  ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg)
  
-### <p align="center"> Um pouco sobre mim: </p>  
- ### Um pouco sobre mim:
-
+### <p align="center"> Um pouco sobre mim </p>  
 - 🔭 Atuo em uma empresa de BI, trabalhamos com análise de dados e Inteligência Artificial.
 - 🙋‍♂️ Estou graduando em Economia 8/8.
 - 🌱 Procuro aprender sobre Economia, Machine Learning, Inteligência Artificial e Metódos Quantitativos em Geral.
@@ -24,8 +22,7 @@
   
 </div>
 
-### Stacks:
-
+### <p align="center"> Stacks </p>  
 <p> 
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
   <img alt="DJANGO-REST" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/> 
@@ -38,8 +35,8 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 </p> 
-
-  ### Visitantes: 
+  
+### <p align="center"> Visitantes </p>  
 ![](https://visitor-badge.glitch.me/badge?page_id=Leonardo-Dias-Up)
 <br>
 </div>

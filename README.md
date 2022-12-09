@@ -4,8 +4,6 @@
   <a href="https://www.linkedin.com/in/leonardo-dias-economista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leonardo.ecodias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ### <p align="center">  ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg) </p>  
-
 ### <p align="center"> Um pouco sobre mim: </p>  
 - 🔭 Atuo em uma empresa de BI, trabalhamos com análise de dados e Inteligência Artificial.
 - 🙋‍♂️ Estou graduando em Economia 8/8.
@@ -27,7 +25,9 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 </p> 
-  
+
+ ### <p align="center">  ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg) </p>  
+
 ### <p align="center"> Visitantes: </p>  
 ### <p align="center"> ![](https://visitor-badge.glitch.me/badge?page_id=Leonardo-Dias-Up) </p>  
 

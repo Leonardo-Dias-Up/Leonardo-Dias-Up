@@ -2,8 +2,10 @@
  </div>
 <div align="center">
   <a href="https://github.com/Leonardo-Dias-Up">
+  <img height="240em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Dias-Up&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Dias-Up&layout=compact&langs_count=7&theme=dark"/>
- </div>
+</div>
+
   ### <p align="center">  ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg) </p>  
 
 <div align="center">

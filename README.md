@@ -7,8 +7,7 @@
   <img height="190em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Dias-Up&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ### <p align="center">  
- ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg) </p>  
+  ### <p align="center">  ![Snake animation](https://github.com/Leonardo-Dias-Up/Leonardo-Dias-Up/blob/output/github-contribution-grid-snake.svg) </p>  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-dias-economista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

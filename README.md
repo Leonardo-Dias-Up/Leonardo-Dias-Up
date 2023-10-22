@@ -14,11 +14,11 @@
   <a href = "mailto:leonardo.ecodias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### <p align="center"> Um pouco sobre mim: </p>  
-- 🔭 Atuo em uma empresa de BI, trabalhamos com análise de dados e Inteligência Artificial.
-- 🙋‍♂️ Estou graduando em Economia 8/8.
+- 🔭 Atuo como analista de dados e programador para empresas privadas.
+- 🙋‍♂️ Graduado em Ciências Econômicas
 - 🌱 Procuro aprender sobre Economia, Machine Learning, Inteligência Artificial e Metódos Quantitativos em Geral.
-- 🎲 Atuei em autarquias no setores de coordenação administrativo financeiro, setor de licitações, setor de investimentos e contabilidade.
-- ⌨️ Tenho experiência com Python, Django, R, React, Power Bi, Excel, Google Cloud, e MySQL.
+- 🎲 Atuei em empresa de construção cívil, trading de commodities, petroliferas, fundos de investimentos, adm pública, entre outros.
+- ⌨️ Tenho experiência com Python, Django, Docker, Celery, R, React, Power Bi, Power Apps, Excel, VBA, Google Cloud Plataform, AWS Ec2, SharePoint, Azure, Postgres, MySQL, entre muitas outras ferramentas.
 </div>
 
 ### <p align="center"> Stacks: </p>  
